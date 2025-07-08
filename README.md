@@ -1,4 +1,4 @@
-## 🖼️ Neural-Style-Transfer
+# 🖼️ Neural-Style-Transfer
 
 A modern desktop application for applying Neural Style Transfer — combining the content of one image with the artistic style of another — using PyTorch and VGG19, built with a responsive Tkinter GUI.
 
@@ -17,13 +17,14 @@ A modern desktop application for applying Neural Style Transfer — combining th
 
 🎨 Saves final output image to /outputs folder
 
-# 🚀 Getting Started
+## 🚀 Getting Started
  ✅ 1.Install dependencies
 
- <pre> ```pip install -r requirements.txt ``` </pre>
+ <pre> pip install -r requirements.txt </pre>
 
  ✅ 2. Run the app
 
- python main.py
+ <pre> python main.py </pre>
+
 
  
